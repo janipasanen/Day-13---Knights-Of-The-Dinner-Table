@@ -46,7 +46,7 @@ public class GameLogic {
                 max = total;
             }
         }
-        System.out.println("Max happy: " + max);
+        System.out.println("Total change in happiness for the optimal seating arrangement of the actual guest list if including me: " + max);
     }
 
 
